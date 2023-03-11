@@ -1,2 +1,4 @@
-"puts 'helloworld'"
-"puts 'helloworld'"
+puts 'hello world'
+puts "Test nano"
+puts "test vim"
+
